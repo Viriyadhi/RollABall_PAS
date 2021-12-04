@@ -13,7 +13,12 @@ Game ini adalah game bola menggelinding yang dapat dikontrol oleh player dengan 
 Dokumentasi Script:
 
 PlayerController.cs = berisikan movement dan input pemain.
+
 CameraController.cs = berisikan logika camera yang mengikuti pergerakan bola dengan position.transform
+
 Score script.cs = Script yang berisikan score system dan mensetkan scoreValue di text UI
+
 ZArea.cs = Script yang berisikan jika bola menyentuh dead zone (warna merah)
+
 Gold.cs = Script yang berisikan score system yang dipasang di prefab gold.
+
