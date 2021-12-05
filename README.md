@@ -4,7 +4,8 @@ Nama : Tjan Viriyadhi Sidharta
 
 Kelas : 11 RPL 2
 
-Absen : __
+Absen : 33
+
 
 Dokumentasi Game Roll A Ball
 
